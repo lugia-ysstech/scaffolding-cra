@@ -1,2 +1,2 @@
-# scaffoldings-cra
+# scaffolding-cra
 create-react-app.
